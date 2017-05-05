@@ -191,7 +191,7 @@ footer {
  	width: 100%;
  }
 
- @media screen and (max-width: 980px) {
+ @media only screen and (max-width: 980px) {
 
  	.wrapper {
  		width: 100%;
@@ -207,7 +207,7 @@ footer {
 
  }
 
- @media screen and (max-width: 768px) {
+ @media only screen and (max-width: 768px) {
 
  	.wrapper {
  		width: 100%;
@@ -222,7 +222,7 @@ footer {
  	}
  }
 
- @media screen and (max-width: 680px) {
+ @media only screen and (max-width: 680px) {
 
  	.wrapper {
  		width: 100%;
